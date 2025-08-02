@@ -1,0 +1,1 @@
+export const getTranslatedCondition = (condition: string) => `Translated ${condition}`;
